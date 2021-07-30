@@ -49,7 +49,7 @@ echo 'Быстрая доставка букетов по всему Минск�
 echo '</div>';
 echo '<div class="offer__show">';
 echo '<a href="#bouquets" class="offer__btn btn">';
-echo 'Выбрать букет';
+echo 'Выбрать букеты';
 echo '</a>';
 echo '</div>';
 echo '</div>';
