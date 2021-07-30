@@ -77,7 +77,7 @@ echo '<div class="item__img">';
 echo '<img src="img/three.svg">';
 echo '</div>';
 echo '<div class="item__text">';
-echo 'Самые свежие цветы';
+echo 'Самые свежиеe цветы';
 echo '</div>';
 echo '</div>';
 echo '<div class="about__item">';
